@@ -1,0 +1,97 @@
+{
+  "proyecto": "Chiche · Campana (Av. Perón 525)",
+  "semana_activa": "2026-semana-01",
+  "ultima_actualizacion": "2026-11-27T00:25:00-03:00",
+  "maestro": {
+    "id": "maestro",
+    "nombre": "Agente Maestro Orquestador",
+    "rol": "Director de Operaciones y Auditoría",
+    "estado": "entregado",
+    "progreso": 100,
+    "tarea_actual": "Limpieza ejecutada en PC y Google Drive (solo lo importante). Aprendizajes de TikTok (@chichefiambres, hit 34K), bio oficial, Canva y lectura fácil consolidados en cerebro/01, 04 y 05; listo para iniciar Semana 2.",
+    "analisis_respaldo": "Validó coherencia entre cerebro/01..05, reglas de Kallaway (0–4s, Audience Matching), cero ASMR, cero polémicas con el Día y calendario real de 6 videos + 3 posts.",
+    "filtros_aprobados": [
+      "Campana y Buena Vecindad",
+      "Cero Humo / Anti-IA",
+      "4 Ingredientes + 3 Ganchos",
+      "Zona de Retención + Ancla",
+      "Detalle de Rodaje Cristina",
+      "Empaquetado CapCut + Carrusel"
+    ],
+    "entregable_final": "produccion/semanas/2026-semana-01/"
+  },
+  "subagentes": [
+    {
+      "id": "subagente-1",
+      "nombre": "Subagente 1 · Guionista & Calendarizador",
+      "rol": "Calendarización + Qué grabar + Guiones & Hooks",
+      "estado": "entregado",
+      "progreso": 100,
+      "color": "#38bdf8",
+      "posicion_3d": [-4.5, 0, -2.5],
+      "lee_de": ["cerebro/01..05", "subagente-4"],
+      "envia_a": ["subagente-2", "subagente-3", "maestro"],
+      "analisis_respaldo": "Cruzó el público de Campana (20–92 años), la ventaja real de Cristina al corte y el Audience Matching de Kallaway (3 Ancla + 4 Flash sin salirse de rubro ni atacar al Día).",
+      "tarea_actual": "Calendarizó los 7 días y redactó los 7 guiones con Gancho de Texto (≤2 líneas, 0 puntuación), Gancho Hablado de 3 pasos y Zona de Retención.",
+      "entregables": [
+        "produccion/semanas/2026-semana-01/00-calendario-semanal.md",
+        "produccion/semanas/2026-semana-01/guiones/video-01..07.md"
+      ],
+      "reporte_al_maestro": "Calendario de 7 días y 7 guiones listos. Pasada la posta a Carruseles (2) y Ayudante Editor (3)."
+    },
+    {
+      "id": "subagente-2",
+      "nombre": "Subagente 2 · Diseñador de Carruseles",
+      "rol": "Carruseles de Mostrador + Portadas + Historias IG/WA",
+      "estado": "entregado",
+      "progreso": 100,
+      "color": "#a78bfa",
+      "posicion_3d": [4.5, 0, -2.5],
+      "lee_de": ["subagente-1", "subagente-4", "cerebro/02"],
+      "envia_a": ["subagente-3", "maestro"],
+      "analisis_respaldo": "Leyó los 7 ganchos del Subagente 1 y el foco comercial (fiambres al corte, picadas, bebidas, hielo) para diseñar placas guardables sin depender siempre de video.",
+      "tarea_actual": "Armó el Carrusel de 6 placas sin cámara, las 2 secuencias de Historias de venta (IG/WA) y las portadas unificadas.",
+      "entregables": [
+        "produccion/semanas/2026-semana-01/historias-y-carrusel.md",
+        "produccion/semanas/2026-semana-01/assets/overlays-y-portadas-semana-01.md"
+      ],
+      "reporte_al_maestro": "Carrusel, Historias y textos de portada alineados con Subagente 1 y compartidos con Ayudante Editor (3)."
+    },
+    {
+      "id": "subagente-3",
+      "nombre": "Subagente 3 · Ayudante Editor & Rodaje",
+      "rol": "Cómo grabar con Cristina + Edición CapCut segundo a segundo",
+      "estado": "entregado",
+      "progreso": 100,
+      "color": "#fb923c",
+      "posicion_3d": [-4.5, 0, 3.0],
+      "lee_de": ["subagente-1", "subagente-2", "cerebro/04"],
+      "envia_a": ["maestro", "subagente-4"],
+      "analisis_respaldo": "Revisó cada guion (1) y placa (2) para asegurar espacio libre para el Gancho de Texto (≥3s), movimiento calibrado en 0–2s, cortes cada 2–3s y cero estilo ASMR.",
+      "tarea_actual": "Definió el plan de rodaje agrupado (45 min Ancla + 3 min Flash), posición del celular, luz de vidriera y timeline CapCut.",
+      "entregables": [
+        "produccion/semanas/2026-semana-01/01-plan-rodaje-batching.md",
+        "Guías de rodaje y CapCut en los 7 guiones"
+      ],
+      "reporte_al_maestro": "Hoja de rodaje en tanda y mapas de CapCut listos para grabar en Av. Perón 525 sin improvisación."
+    },
+    {
+      "id": "subagente-4",
+      "nombre": "Subagente 4 · Analista de Métricas",
+      "rol": "Estudio de Resultados por Video + Recalibración",
+      "estado": "entregado",
+      "progreso": 100,
+      "color": "#34d399",
+      "posicion_3d": [4.5, 0, 3.0],
+      "lee_de": ["cerebro/05", "subagente-1", "subagente-3"],
+      "envia_a": ["subagente-1", "subagente-2", "subagente-3", "maestro"],
+      "analisis_respaldo": "Auditó TikTok Studio (@chichefiambres) al 26/11/2026: Video 1 (4.9K, 1.8% completo) vs Video 2 (34K, 13.9% completo, 13.32s promedio, 2,459 likes, 53 comentarios, 31 compartidos, 66 guardados) vs Carrusel sin caption (276 vistas).",
+      "tarea_actual": "Emitió autopsia por capas y 3 directivas de Semana 2: potenciar espontaneidad de Cristina ('Señora 90+5 / que resuelve'), responder comentarios de horario/precios y no publicar carruseles sin copy en TikTok.",
+      "entregables": [
+        "cerebro/05-registro-aprendizajes.md",
+        "Auditoría completa Semana 1 TikTok Studio"
+      ],
+      "reporte_al_maestro": "Señal temprana validada: situación cotidiana + Cristina natural multiplicó x7.7 la retención completa (1.8% -> 13.9%). Directivas cargadas en cerebro/05 para Semana 2."
+    }
+  ]
+}
