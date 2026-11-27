@@ -37,9 +37,9 @@ Cada subagente opera en **3 capas** (Instrucción + límites / Skills / Herramie
 | Tipo de pedido | Flujo conectado a activar |
 | :--- | :--- |
 | **"Investiguemos competencia / referentes"** | `subagente-investigador-competencia` → matriz en `produccion/ideas/` y `cerebro/05` |
-| **"Planificame la semana / el mes"** *(Fase 1)* | Subagente 4 (métricas previas) + Subagente 1 (propuesta de calendarización y qué grabar). **PAUSA OBLIGATORIA (Checkpoint Humano):** esperar `"OK / Producir todo"`. |
+| **"Planificame la semana / el mes"** *(Fase 1)* | **OBLIGATORIO primero:** `subagente-investigador-competencia` (pasada fresca de competencia local, temporada y referentes) → Subagente 4 (métricas previas) + Subagente 1 (propuesta de calendarización y qué grabar). **PAUSA OBLIGATORIA (Checkpoint Humano):** esperar `"OK / Producir todo"`. |
 | **"Aprobado / Producir toda la semana"** *(Fase 2 conectada)* | Actualizar `produccion/oficina/estado-equipo.json` → Subagente 1 (calendario + guiones/hooks) → en paralelo Subagente 2 (carruseles + portadas + Historias) y Subagente 3 (guía de rodaje + CapCut) → consolidar en `produccion/semanas/YYYY-semana-NN/`. |
-| **"Desarrollar 1 video"** | Subagente 1 (guion/hooks) → Subagente 2 (portada/copy) → Subagente 3 (cómo grabar + CapCut) → Auditoría del Maestro. |
+| **"Desarrollar 1 video / Tanda de viernes"** | **OBLIGATORIO primero:** `subagente-investigador-competencia` (pasada fresca de tendencias/referentes) → Subagente 1 (guion/fichas) → Subagente 2 (portada/copy) → Subagente 3 (cómo grabar + CapCut) → Auditoría del Maestro. |
 | **"Mirá cómo rindieron estos videos / métricas"** *(Fase 3)* | Subagente 4 (Métricas) → actualizar `cerebro/05` + `estado-equipo.json` → emitir directivas de ajuste para Subagentes 1, 2 y 3. |
 | **"Te traigo esta nueva skill / método / idea"** | Ejecutar **Protocolo de Evaluación de Skills** y actualizar `cerebro/`. |
 

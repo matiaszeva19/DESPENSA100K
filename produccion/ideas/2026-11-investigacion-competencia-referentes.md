@@ -56,3 +56,10 @@
 ### Palabras de Poder Validadas (En español argentino real, cero humo)
 - **Dolor / Freno:** *aplastado, fila, bandeja vieja, líquido, esperar, tirar plata, clavarte, tarde*.
 - **Resultado / Antojo:** *recién cortado, delante tuyo, en dos minutos, al peso real, fresco de hoy, sin vueltas, rinde para 4*.
+
+---
+
+## 4. Actualización Fresca — 27/11/2026 (Pre-Rodaje Viernes)
+- **Oportunidad de temporada inmediata (fin de noviembre / diciembre):** En medios y redes argentinas ya explotan las búsquedas de **picadas para despedidas de año, juntadas de trabajo y reuniones de amigos**. En Campana ninguna fiambrería está publicando Reels/TikToks cortos con cara real atacando *"despedidas / juntadas de viernes con picada + bebida fría + hielo"*.
+- **Competencia local adicional relevada:** `Fiambrería Toledo` (`Av. Mitre 909`) y `La Cañada` (`Av. Mitre 1155`, catálogo WhatsApp), ambas sobre Av. Mitre, lejos de **Av. Perón 525** y sin formato de video corto con rostro humano.
+- **Referentes reafirmados:** `Riky Salvatierra` (almacenero viral en TikTok con situaciones reales de mostrador — en Chiche lo invertimos a positivo con la calidez natural de Cristina) y `@elpeladodelossandwiches` (reafirma que el clásico imbatible que más pide la gente es **salame y queso** bien frescos y cargados).

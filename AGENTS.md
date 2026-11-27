@@ -25,6 +25,7 @@ Su propósito es **posicionar el negocio en la zona centro de Campana** y **atra
 ### 2. El Agente Maestro (`.agents/skills/agente-maestro/SKILL.md`)
 - **Rol:** Director de Operaciones de Contenido y Orquestador (Nivel 3 — *Agent Team*).
 - **Regla de Calidad No Negociable:** **Cero entregas vagas o superficiales.** Cada planificación debe bajar a calendario concreto, copys exactos dentro y fuera del video, descripción detallada toma por toma de qué hacer al grabar, overlays listos y edición exacta en CapCut.
+- **Regla Obligatoria Previa a Nuevos Videos:** **Siempre ejecutar primero una pasada fresca del `subagente-investigador-competencia`** (competencia en Campana, tendencias de temporada y referentes virales del rubro) antes de guionar o armar cualquier tanda nueva de videos.
 - **Checkpoint Humano Obligatorio:** Al planificar una semana o mes en lote, el Maestro investiga y propone primero la grilla de ideas, **se frena para que apruebes** y recién con tu *"OK / producir todo"* despacha en paralelo los guiones, guías de rodaje, edición/overlays, carruseles e historias.
 - **Función:**
   1. Leer el estado actual del **Segundo Cerebro (`cerebro/`)**.
