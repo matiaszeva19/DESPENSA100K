@@ -21,7 +21,7 @@
 - **Ángulo ganador en Campana:** *"Te llevás la picada fresca, las bebidas bien frías y el hielo en una sola parada en Av. Perón 525"* (ahorra ir a dos negocios distintos).
 
 ### 4. Despensa Gancho para Videos Rápidos (Flash)
-- **Alfajores y bebidas:** Productos de altísima rotación e impulso diario (ideales para el formato debate en heladera con precios a mano estilo `@almacenlodeadri`).
+- **Bebidas frías y despensa diaria:** Productos de alta rotación e impulso diario (debates cotidianos de mostrador con precios a mano, ej. salame picado fino vs. grueso, qué queso no puede faltar). **Aclaración confirmada en local:** **NO hay alfajores en heladera** (nunca proponer videos de alfajores fríos de heladera).
 
 ---
 
