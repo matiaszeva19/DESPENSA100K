@@ -30,13 +30,18 @@ Leer primero:
 - **Qué les funciona** (comentarios pidiendo precios, ubicaciones, combos) y **dónde fallan** (placas estáticas aburridas, cero cara humana, hooks lentos, mala iluminación, falta de ubicación clara).
 - **Huecos que Chiche puede apropiarse YA.**
 
-### 2. Top 15 Creadores / Referentes del Rubro (Fiambrerías, Picadas, Almacenes, Comida de mostrador)
-Para cada cuenta o video ganador analizado (sea buscado en web o aportado por el usuario), aplicar el filtro **Outlier Score** (priorizar videos que rindieron muy por encima del promedio del canal dentro del mismo nicho, descartando virales fuera de avatar) y desarmar exactamente:
+### 2. Radar Obligatorio de Videos Probados (+500K Vistas · Dentro y Fuera de Nicho)
+En **cada investigación previa a grabar nuevos videos**, buscar y analizar **siempre**:
+- **Dentro del nicho (+500K vistas):** Fiambrerías, almacenes, despensas, queserías, sándwiches, carnicerías y mostradores argentinos.
+- **Fuera del nicho (+500K vistas):** Comercios locales y oficios de barrio (ferreterías, panaderías, locales a la calle, entrevistas rápidas) cuya **estructura viral** pueda adaptarse 100% a Chiche sin salir del avatar de Campana.
+- **Métricas obligatorias a priorizar:** Además de vistas (>500K) y **Outlier Score**, evaluar **Compartidos (Shares / Sends)** — la señal #1 de alcance — y **Guardados (Saves)** — señal de utilidad práctica.
+
+Para cada cuenta o video ganador analizado (sea buscado en web o aportado por el usuario desde TikTok/Instagram), desarmar exactamente:
 1. **Gancho de Texto (en pantalla):** Qué palabras usó (ideal 3–5 palabras grandes), cómo combinó tema + dolor/resultado/cambio y qué palabras de poder aplicó.
 2. **Gancho Hablado y Contraste (A vs. B):** Qué estructura gramatical (*formato*) usó en los primeros 3 segundos, cómo aplicó *Context Lean → Interyección → Snapback* y qué contraste A vs. B planteó.
 3. **Gancho Visual (Movimiento Calibrado):** Cuál de los 5 tipos usó (gráficos/texto, interrupción de patrón, movimiento del sujeto, efecto visual, selección/congelado) y qué se movía en el encuadre sin tapar la lectura.
-4. **Zona de Retención:** Cómo confirmó la promesa del gancho en ≤4s, si usó *Value Loop* y qué **ancla de confianza** mostró (balanza, corte en máquina, prueba social, factura/precio).
-5. **Por qué ganó y cómo lo POTENCIAMOS en Chiche:** Cómo tomar esa estructura, mejorarle el ritmo/claridad/ancla y bajarla a Av. Perón 525 al lado del Día.
+4. **Por qué disparó Guardados y/o Compartidos:** Qué dato útil obligó a **guardar** (receta/cantidades/precios/guía para no pagar de más) o qué emoción/humor/situación obligó a **reenviar por WhatsApp/DM**.
+5. **Ficha de 3 Líneas (Cómo lo POTENCIAMOS en Chiche):** *(a) Qué nos gustó / frenó el scroll → (b) Qué cambiamos → (c) Qué lo hace 100% nuestro (Cristina + Av. Perón 525 al lado del Día)*.
 
 ---
 
