@@ -1,15 +1,15 @@
 {
   "proyecto": "Chiche · Campana (Av. Perón 525)",
   "semana_activa": "2026-semana-01",
-  "ultima_actualizacion": "2026-11-27T00:25:00-03:00",
+  "ultima_actualizacion": "2026-11-27T11:45:00-03:00",
   "maestro": {
     "id": "maestro",
     "nombre": "Agente Maestro Orquestador",
     "rol": "Director de Operaciones y Auditoría",
     "estado": "entregado",
     "progreso": 100,
-    "tarea_actual": "Limpieza ejecutada en PC y Google Drive (solo lo importante). Aprendizajes de TikTok (@chichefiambres, hit 34K), bio oficial, Canva y lectura fácil consolidados en cerebro/01, 04 y 05; listo para iniciar Semana 2.",
-    "analisis_respaldo": "Validó coherencia entre cerebro/01..05, reglas de Kallaway (0–4s, Audience Matching), cero ASMR, cero polémicas con el Día y calendario real de 6 videos + 3 posts.",
+    "tarea_actual": "Entregada la Secuencia de 4 Fichas de Mostrador (Telaraña de Contenido) para rodaje de hoy viernes 14:00 hs con Cristina en Av. Perón 525, Checklist de Preparación de Bandeja, respaldo en Google Drive y registro metodológico en cerebro/05-registro-aprendizajes.md.",
+    "analisis_respaldo": "Validó coherencia entre cerebro/01..05, reglas de Kallaway (0–4s, Audience Matching), cero ASMR, cero memorización para Cristina, cero polémicas con el Día y formato de 4 Roles en Ficha de Mostrador.",
     "filtros_aprobados": [
       "Campana y Buena Vecindad",
       "Cero Humo / Anti-IA",
@@ -18,7 +18,7 @@
       "Detalle de Rodaje Cristina",
       "Empaquetado CapCut + Carrusel"
     ],
-    "entregable_final": "produccion/semanas/2026-semana-01/"
+    "entregable_final": "produccion/semanas/2026-semana-01/fichas-mostrador-viernes-telarana.md"
   },
   "subagentes": [
     {

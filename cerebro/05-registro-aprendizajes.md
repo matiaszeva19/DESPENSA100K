@@ -36,6 +36,7 @@
 | 2026-11-18 | `trypostit/trypost`, `cbsshekhawat18-lab/social-stats-social-media-manager`, `GkhanKINAY/postqueen-app` | **Descartadas** | Plataformas completas de scheduling tipo Buffer/Hootsuite (PHP/Django/TS + Docker). Infraestructura innecesaria hoy para 3 videos semanales y cuentas aún sin abrir. |
 | 2026-11-18 | `soxoj/maigret` y `benedekrozemberczki/awesome-community-detection` | **Descartadas (Fuera de rubro)** | `maigret` es OSINT para investigar usernames de personas; `awesome-community-detection` es una lista académica de papers de grafos/ML. Cero utilidad para Chiche. |
 | 2026-11-25 | **Canva MCP + Flujo de Carrusel 4:5 (`DAHb8saf5sE`)** | **Adoptada** | Validado para subir fotos reales del local previamente enderezadas (EXIF aplicado) y generar carruseles editables `1080×1350` directo en la cuenta del creador (`Matias Zevallos`). |
+| 2026-11-27 | **Secuencia de 4 Roles en Ficha de Mostrador (Telaraña de Contenido)** | **Adoptada** | Reemplaza videos sueltos y guiones largos de memorización para tandas de viernes (`14:00 hs`, 15 min): 4 piezas conectadas (**1. Atracción y Contraste → 2. Autoridad de Oficio → 3. Romper Objeciones de Precio → 4. Cierre y Tráfico Directo**) con formato fijo de 4 bloques (**Gancho Único ≤12 palabras · 2 Preguntas Disparadoras fuera de cámara · 3 Bullets de Datos Ancla · 3 B-Rolls + CTA Nativo**) + **Checklist de Preparación de Bandeja**. Potencia la espontaneidad validada de Cristina (`34K`). |
 
 ---
 
