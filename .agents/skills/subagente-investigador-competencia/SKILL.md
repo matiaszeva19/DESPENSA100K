@@ -47,7 +47,10 @@ Para cada cuenta o video ganador analizado (sea buscado en web o aportado por el
 
 ## Regla de Honestidad y Herramientas
 - Nunca inventar métricas, vistas ni videos que no se hayan observado o recibido del usuario.
-- **Herramienta local instalada (`Agent Reach 1.6.1`):**
+- **Herramienta principal de escaneo en vivo (`Apify API`):**
+  - Usar `clockworks~tiktok-scraper` (TikTok) y `apify~instagram-reel-scraper` (Instagram) leyendo el token **únicamente** desde archivo privado fuera del repositorio (`/home/antigravity/.apify_token` o variable de entorno `APIFY_TOKEN`, **NUNCA guardar tokens en el repo**).
+  - Mantener consultas económicas (`10–15` resultados por búsqueda / `6–8` Reels por perfil) para cuidar la cuota mensual y ordenar siempre por **Vistas (`>=500K`)**, **Tasa de Guardados (`collectCount / playCount`)** y **Tasa de Compartidos (`shareCount / playCount`)**.
+- **Herramienta local complementaria (`Agent Reach 1.6.1`):**
   - **YouTube + Web (`default`, sin login):** Usar `agent-reach youtube search "<tema>"` / `subtitle` / `read` y `agent-reach web search` / `read` para encontrar Shorts/videos argentinos del rubro y extraer guiones/ganchos reales.
   - **Instagram y Facebook (`experimental`, requieren login):** Si el usuario habilita `agent-reach add instagram` / `facebook` con una **cuenta secundaria** (nunca la principal ni la oficial de Chiche, por riesgo de restricción de Meta), se puede usar `agent-reach instagram search/profile/posts` y `agent-reach facebook search/profile` en modo solo lectura.
   - **TikTok:** **No está soportado** por Agent Reach; analizar con búsqueda web o links/capturas que pase el usuario.
